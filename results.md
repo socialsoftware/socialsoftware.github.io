@@ -1,0 +1,34 @@
+---
+layout:    page
+title:     Results
+permalink: /results/
+---
+
+
+# Publications
+
+- Portela, Manuel and António Rito Silva, ‘A Model for a Virtual LdoD’, Literary and Linguistic Computing, Advance Online Publication: March, 5, 2014 Online ISSN 1477-4615 – Print ISSN 0268-1145. http://llc.oxfordjournals.org/content/early/2014/03/05/llc.fqu004.abstract. Also at Digital Humanities Scholarship, Online Publication: December 2, 2014 Online ISSN 2055-768X Print ISSN 2055-7671 http://dsh.oxfordjournals.org/content/early/2014/12/02/llc.fqu004.
+- Silva, António Rito and Manuel Portela – ‘TEI4LdoD: Textual Encoding and Social Editing in Web 2.0 Environments’, Fabio Ciotti and Arianna Ciula, eds., The Linked TEI: Text Encoding in the Web: TEI Conference and Members Meeting 2013, Book of Abstracts, DIGILAB, Università La Sapienza, Roma, 2013, pp. 119-126. ISBN 978-88-6507-542-5. http://digilab2.let.uniroma1.it/teiconf2013/wp-content/uploads/2013/09/book-abstracts.pdf
+- Silva, António Rito and Manuel Portela – ‘Social Edition 4 The Book of Disquiet: The Disquiet of Experts with Common Users’, Matthias Korn, Tommaso Colombino, and Myriam Lewkowicz, eds. ECSCW 2013: Adjunct Proceedings The 13th European Conference on Computer-Supported Cooperative Work, Department of Computer Science, Aarhus University, 2013, pp. 45-50. ISSN 0105-8517. http://cs.au.dk/~mkorn/ECSCW_2013_Adjunct_Proceedings-web.pdf
+- Davide Passinhas, Michael Adams, Bernardo Oliveira Pinto, Ricardo Costa, António Rito Silva and Arthur H.M. ter Hofstede. Blended Workflow Engine. IN Proceedings of the Demonstration Track of the 10th International Conference on Business Process Management (BPM 2012). September 2012, Tallinn, Estonia. N. Lohmann, S. Moser (Eds): BPM Demos 2012, Vol. 940, pp. 23-28, 2012. CEUR Workshop Proceedings. urn:nbn:de:0074-940-9
+- David Martinho and António Rito Silva. A Recommendation Algorithm to Capture Endusers’ Tacit Knowledge. In 10th International Conference on Business Process Management (BPM2012). September 2012, Tallinn, Estonia. A. Barros, A. Gal, E. Kindler (Eds.): BPM 2012, LNCS 7481, 2012 pp. 216-222, 2012. Springer. DOI: 10.1007/978-3-642-32885-5_17 (short paper)
+- Mário Luís Guimarães and António Rito Silva. Improving Early Detection of Software Merge Conflicts. In 34th International Conference on Software Engineering (ICSE2012). June 2012, Zurich, Switzerland. M. Glinz, G. Murphy, and M. Pezz`e (Eds.): ICSE2012, pp. 342-352, 2012. IEEE. DOI: 10.1109/ICSE.2012.6227180
+- António Rito Silva and Michael Rosemann. Integrating Organisational Design with IT Design: The Queensland Health Payroll Case. In 7th International Conference on Design Science Research in Information Systems and Technology (DESRIST 2012). May 2012, Las Vegas, USA. K. Peffers, M. Rothenberger, and B. Kuechler (Eds.): DESRIST 2012, LNCS 7286, pp. 271-286, 2012. Springer. DOI: 10.1007/978-3-642-29863-9_20
+- Mário Luís Guimarães and António Rito Silva. Making Software Integration Really Continuous. In 15th International Conference on Fundamental Approaches to Software Engineering (FASE2012). March 2012, Tallinn, Estonia. J. de Lara and A. Zisman (Eds.): FASE 2012, LNCS 7212, pp. 332-346, 2012. Springer. DOI: 10.1007/978-3-642-28872-2_23
+- António Rito Silva and Michael Rosemann. Processpedia – An Ecological Environment for BPM Stakeholders Collaboration. In Business Process Management Journal. Emerald. Vol. 18, Issue 1, February 2012. pp.20-42. DOI: 10.1108/14637151211214993
+- António Rito Silva. A Blended Workflow Approach. In Business Process Design (BPD2011). August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part I, LNBIP 99, pp. 25-36, 2012. Springer.
+- David Martinho and António Rito Silva. Non-intrusive Capture of Business Processes Using Social Software: Capturing the End Users’ Tacit Knowledge. In The 4th Workshop on Business Process Management and Social Software (BPMS2’11). August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part I, LNBIP 99, pp. 207-218, 2012. Springer.
+- Bernardo Pinto and António Rito Silva. An Architecture for a Blended Workflow Engine: Integrating an Activity-Based Perspective with a Goal-Based Perspective. In Second International Workshop on Traceability and Compliance of Semi-Structured Processes (TC4SP2011) . August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part II, LNBIP 100, pp. 382–393, 2012. Springer.
+- Giorgio Bruno, Frank Dengler, Ben Jennings, Rania Khalaf, Selmin Nurcan, Michael Prilla, Marcello Sarini, Rainer Schmidt and António Rito Silva. Key challenges for enabling agile BPM with social software. In Journal of Software Maintenance and Evolution: Research and Practice. Special Issue on Business Process Management. Wiley. Vol. 23, Issue 4, June 2011. pp. 297–326. DOI: 10.1002/smr.523.
+- Rui Henriques and António Rito Silva. Object-centered Process Modeling: A New Approach to Model Data-intensive Systems. In Event-driven Business Process Management Workshop. September 2010, Hoboken New Jersey, USA. M. zur Muehlen and J. Su (Eds.): BPM 2010 Workshops, LNBIP 66, pp. 683–694, 2011. Springer. DOI: 10.1007/978-3-642- 20511-8_62
+- David Martinho and António Rito Silva. ECHO: An Evolutive Vocabulary for Collaborative BPM Discussions. In The Third Workshop on Business Process Management and Social Software. September 2010, Hoboken New Jersey, USA. M. zur Muehlen and J. Su (Eds.): BPM 2010 Workshops, LNBIP 66, pp. 408–419, 2011. Springer. DOI: 10.1007/978-3-642- 20511-8_38
+- António Rito Silva, Michael Rosemann and Samia Mazhar. Towards Processpedia: An Ecological Environment for BPM Stakeholders Collaboration. In The Third Workshop on Business Process Management and Social Software. September 2010, Hoboken New Jersey, USA. M. zur Muehlen and J. Su (Eds.): BPM 2010 Workshops, LNBIP 66, pp. 449–460, 2011. Springer. DOI: 10.1007/978-3-642-20511-8_41
+- Mário Luís Guimarães and António Rito Silva. Towards Real-Time Integration. In Proceedings of the 3rd International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE10). May 2010. Cape Town, South Africa. ACM. pp. 56-63.DOI: 10.1145/1833310.1833320
+- António Rito Silva, Rachid Meziani, Rodrigo Magalhães, David Martinho, Ademar Aguiar and Nuno Flores. AGILIPO: Embedding Social Software Features into Business Process Tools. In The Second Workshop on Business Process Management and Social Software. BPM 2009 Workshops. LNBIP 43. Springer. pp. 219-230. 2010. DOI: 10.1007/978-3-642- 12186-9_21
+- Rodrigo Magalhães and António Rito Silva. ODE Working Paper. Technical Report. 2009.
+
+# Prototypes
+
+- Processpedia
+- [Blended Workflow](http://github.com/socialsoftware/blended-workflow)
+- [Social Edition](https://github.com/socialsoftware/edition)
