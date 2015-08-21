@@ -7,7 +7,7 @@ permalink: /researchers/
 
 # Researchers
 
-- António Rito Silva (Coordinator) (rito.silva@tecnico.ulisbos.pt)
+- António Rito Silva (Coordinator) (rito.silva@tecnico.ulisboa.pt)
 - Vicente García-Díaz (Visiting form University of Oviedo)
 - David Martinho (PhD on Knowledge Capture @ Processpedia)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities @ Social Edition)
