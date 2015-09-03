@@ -8,9 +8,9 @@ The Blended Workflow project fuses an activity-based approach with a goal-based 
 
 # Protoptype
 
-A first prototype was developed on top of the [YAWL](http://www.yawlfoundation.org/) activity-based engine. Currently, a second version of the prototype is being implemented, which take further the level of integration with YAWL. 
+We are developping a prototype that includes a designer of well-formed blended workflow models and a blended workflow execution engine. The code is publicly available in a github repository: [https://github.com/socialsoftware/blended-workflow](https://github.com/socialsoftware/blended-workflow).
 
-A short demo of the second prototype is available here. The code is publicly available in a github repository: [https://github.com/socialsoftware/blended-workflow](https://github.com/socialsoftware/blended-workflow).
+A first prototype of a blended workflow execution engine was developed on top of the [YAWL](http://www.yawlfoundation.org/) engine and it is available in tag [v1.0](https://github.com/socialsoftware/blended-workflow/releases/tag/v1.0). A short demo of the first prototype is available [here](https://www.youtube.com/watch?v=Anb4kuXtBgc). 
 
 # On Going Work
 
@@ -38,6 +38,7 @@ Both, thesis and internships, address several existing open problems. The follow
 
 # Publications
 
+- António Rito Silva and Vicente García-Díaz. Integrating activity- and goal-based workflows: a data model based design method. In 4th Workshop on Data- & Artifact-centric BPM (DAB’15). August 2015, 13th Conference on Business Process Management, Innsbruck, Austria. LNBIP (to appear)
 - Davide Passinhas, Michael Adams, Bernardo Oliveira Pinto, Ricardo Costa, António Rito Silva and Arthur H.M. ter Hofstede. Blended Workflow Engine. IN Proceedings of the Demonstration Track of the 10th International Conference on Business Process Management (BPM 2012). September 2012, Tallinn, Estonia. N. Lohmann, S. Moser (Eds): BPM Demos 2012, Vol. 940, pp. 23-28, 2012. CEUR Workshop Proceedings. urn:nbn:de:0074-940-9
 - António Rito Silva. A Blended Workflow Approach. In Business Process Design (BPD2011). August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part I, LNBIP 99, pp. 25-36, 2012. Springer.
 - Bernardo Pinto and António Rito Silva. An Architecture for a Blended Workflow Engine: Integrating an Activity-Based Perspective with a Goal-Based Perspective. In Second International Workshop on Traceability and Compliance of Semi-Structured Processes (TC4SP2011) . August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part II, LNBIP 100, pp. 382–393, 2012. Springer.
