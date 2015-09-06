@@ -8,7 +8,7 @@ permalink: /researchers/
 # Researchers
 
 - António Rito Silva (Coordinator) (rito.silva@tecnico.ulisboa.pt)
-- Vicente García-Díaz (Visiting form University of Oviedo)
+- Vicente García-Díaz (Visiting from University of Oviedo @ Blended Workflow)
 - David Martinho (PhD on Knowledge Capture @ Processpedia)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities @ Social Edition)
 - Paulo Pires (MSc on Model Synthesis @ Processpedia)

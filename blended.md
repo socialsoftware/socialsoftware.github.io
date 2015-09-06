@@ -51,7 +51,7 @@ Both, thesis and internships, address several existing open problems. The follow
 # Researchers
 
 - António Rito Silva
-- Vicente García-Díaz (visiting form University of Oviedo)
+- Vicente García-Díaz (visiting from University of Oviedo @ designer)
 
 # Past Reserachers
 

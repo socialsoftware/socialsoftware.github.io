@@ -4,7 +4,7 @@ title:     Social Edition
 permalink: /edition/
 ---
 
-In this project we intend to apply the techniques of social software to the aspects of writing and editing. Currently, are two projects. A main project on a Collaborative Platform to Fernando Pessoa's Book of Disquiet editions, which include virtual collaborative editions. The second project is on the edition of descriptions of software architectures of real systems and their collaborative transformation into semi-structured representation of the systems.
+In this project we intend to apply the techniques of social software to the aspects of writing and editing. Currently, are two projects. A main project on a Collaborative Platform to Fernando Pessoa's Book of Disquiet editions, which includes virtual collaborative editions. The second project is on the edition of descriptions of software architectures of real systems and their collaborative transformation into semi-structured representation of the systems.
 
 #LdoD
 
