@@ -4,36 +4,42 @@ title:     Social Edition
 permalink: /edition/
 ---
 
-In this project we intend to apply the techniques of social software to the aspects of writing and editing. Currently, are two projects. A main project on a Collaborative Platform to Fernando Pessoa's Book of Disquiet editions, which includes virtual collaborative editions. The second project is on the edition of descriptions of software architectures of real systems and their collaborative transformation into semi-structured representation of the systems.
+In this project we intend to apply the techniques of social software to the aspects of writing and editing. Currently, are three projects. A main project on a Collaborative Platform to Fernando Pessoa's Book of Disquiet editions, which includes virtual collaborative editions. The second project is on the edition of descriptions of software architectures of real systems and their collaborative transformation into a semi-structured representation of the systems. In the third project we are defining a knowledge repository for software engineering that uses an ontology to relate different web sources on software engineering topics.
 
-#LdoD
+# LdoD
 
 Fernando Pessoa's "Livro do Desassossego" ("Book of Disquiet") (LdoD) book is the result of its editors choices and interpretations. LdoD is a set of Pessoa's writings that the editors collected together in a book. The editors' decisions were based on an analysis of the writings, considering aspects like content and style. Therefore, the existing five editions of the LdD differ in the set of selected texts and even in the facsimiles transcriptions.
 
 In this project we intend to take advantage of social software features to foster the creation of a social edition of Pessoas's book.
 
-Based on the digital facsimiles of the LdoD we intend to provide a set of software tools that support the social edition of the LdoD. 
+Based on the digital facsimiles of the LdoD we have implemented a collaborative archive that allows the creation of virtual editions of LdoD which consist of:
 
-Therefore, it is necessary to: 
-
-(1) Design and implement a digital repository for the LoD writings. The writings classification is codified in metadata using the standard TEI-P5 
-
-(2) Design and implement a social edition tool that allows the creation of LdoD editions using folksonomy like techniques.
+- Digital repository for the LoD writings. The writings classification is codified in metadata using the standard TEI-P5. 
+- A social edition tool that allows the creation of LdoD virtual editions using folksonomy like techniques.
+- A recommendation system that sequences LdoD fragements according to a set of criteria proposing different read sequences of the book.
 
 The project main challenges are the identification of the set of social software features that will promote collaboration among online readers of LdoD, software architectures for digital humanities, and collaborative editing in digital humanities.
 
 A prototype is being implemented while the book fragments are being encoded in TEI to allow a mutual feedback between the encoding process and the tool design.
 This project is in collaboration with CLP of the University of Coimbra, [https://projetoldod.wordpress.com/tag/manuel-portela/](https://projetoldod.wordpress.com/tag/manuel-portela/).
 
-# Software Architecture
+An open-source prototype, a collaborative archieve for LdoD, is being developed and it will soon become a full-fletched application. The source code is publicly available in a github repository, [https://github.com/socialsoftware/edition](https://github.com/socialsoftware/edition).
+
+The system is deployed at [http://ldod.uc.pt/](http://ldod.uc.pt/), though only authorized users can access it until it is publicly available, expected for the second quarter of 2016.
+
+# Software Architecture Analyzer
 
 An educational platform where the students collaboratively analyse and synthesise the description of a software architecture, for instance, [High Performance Networking in Chrome](http://aosabook.org/en/posa/high-performance-networking-in-chrome.html), and build a semi-structured description of the system, wikipedia-like, using social software features. The project focus on the knowledge gathering and pedagogical aspects of this approach.
 
-# Protoptype
+# Software Engineering Knowledge
 
-An open-source prototype, a collaborative archieve for LdoD, is being developed and it will soon become a full-fletched application. The source code is publicly available in a github repository, [https://github.com/socialsoftware/edition](https://github.com/socialsoftware/edition).
+A knowledge repository for the software engineering dicipline where external web sources are integrated with internal sources to build a learning enviroment subsumed by a set of evolving categories represented by an ontology. Both, the sources and the set of categories evolve through the interactions of the repository users.
 
-The system is deployed at [http://ldod.uc.pt/](http://ldod.uc.pt/), though only authorized users can access it until it is publicly available, expected for the second quarter of 2015.
+# Research Opportunities
+
+- LdoD
+ - Visualization in the LdoD
+ - Synthesis of Knowledge in LdoD virtual editions
 
 # Publications
 
@@ -45,6 +51,13 @@ The system is deployed at [http://ldod.uc.pt/](http://ldod.uc.pt/), though only 
 # Researchers
 
 - António Rito Silva
-- André Santos (MSc on Advanced Query and Navigation for Digital Humanities)
+- David Duarte (MSc on Annotation System for Software Architecture)
+- Pedro Martins (MSc on the Synthesis of Taxonomies in the LdoD Archive)
 - Nuno Pinto (MSc on Visualization for Digital Humanities) 
+- Rodrigo Rodrigues (MSc on an Ontology for Software Engineering Repository)
+
+# Past Researchers
+
+- André Santos (MSc on Advanced Query and Navigation for Digital Humanities)
 - Catarina Santana (MSc on a Platform for the Analysis and Synthesis of Software Architecture Descriptions)
+

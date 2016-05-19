@@ -14,7 +14,9 @@ A first prototype of a blended workflow execution engine was developed on top of
 
 # On Going Work
 
-The formal proof of the consistent execution of a well-formed Blended Workflow specification.
+- Definition of a sound method to create well-formed Blended Workflow specifications.
+- The formal proof of the consistent execution of a well-formed Blended Workflow specification.
+- The implemention of an integrated designer and executor.
 
 # Research Opportunities
 
@@ -24,17 +26,14 @@ The internships have a 30 hours duration and to apply for it a minimum set of co
 
 Both, thesis and internships, address several existing open problems. The following, are some examples, but contact us to receive more detailed information about the current project status and needs:
 
+- Blended workflow engine
+ - Introduce the organisational perspective and the correspond work assigments to the Blended Workflow designer and executor
+ - Introduce the access control perspective to the Blended Workflow designer and executor
+ - Study several dimensions of flexibility in the Blended Workflow executor
+ - Develop a module for workflow logging and allow to replay it by using a event source architecture
 - User interface development
  - Define and implement a user friendly interface for the modeling of a blended workflow specification
  - Define and design a user friend interface for the integrated execution of a blended workflow instance, according to both views: activity and goal
- - Define and develop small interface modules that improve the user interface usability, for instance:
-  - Improve the interface flow
-  - Simplify the data model presentation
-- Blended workflow engine
- - Enhance the worklist manager module to support an organisational structure
- - Define and develop additional modules to be integrate with the core blended workflow modules, for instance:
-  - Implement a logging module
-  - Implement a recommendation module
 
 # Publications
 
@@ -51,10 +50,10 @@ Both, thesis and internships, address several existing open problems. The follow
 # Researchers
 
 - António Rito Silva
-- Vicente García-Díaz (visiting from University of Oviedo @ designer)
 
 # Past Reserachers
 
+- Vicente García-Díaz (visiting from University of Oviedo @ designer)
 - Ricardo Costa (Specification Construction @ Blended Workflow)
 - Bernardo Pinto (MSc Thesis on a Blended Workflow Engine)
 - David Passinhas (MSc Thesis on YAWL Integration)
