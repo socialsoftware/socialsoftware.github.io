@@ -54,7 +54,7 @@ A knowledge repository for the software engineering dicipline where external web
 - David Duarte (MSc on Annotation System for Software Architecture)
 - Pedro Martins (MSc on the Synthesis of Taxonomies in the LdoD Archive)
 - Nuno Pinto (MSc on Visualization for Digital Humanities) 
-- Rodrigo Rodrigues (MSc on an Ontology for Software Engineering Repository)
+- Rodrigo Ribeiro (MSc on an Ontology for Software Engineering Repository)
 
 # Past Researchers
 

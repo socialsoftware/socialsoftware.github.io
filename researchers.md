@@ -13,7 +13,7 @@ permalink: /researchers/
 - Paulo Pires (MSc on Model Synthesis @ Processpedia)
 - Pedro Martins (MSc on the Synthesis of Taxonomies in the LdoD Archive @ Social Edition)
 - Nuno Pinto (MSc on Visualization @ Social Edition) 
-- Rodrigo Rodrigues (MSc on an Ontology for Software Engineering Repository @ Social Edition)
+- Rodrigo Ribeiro (MSc on an Ontology for Software Engineering Repository @ Social Edition)
 
 # Past Reserachers
 
