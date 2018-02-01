@@ -37,7 +37,7 @@ Both, thesis and internships, address several existing open problems. The follow
 
 # Publications
 
-- António Rito Silva and Vicente García-Díaz. Integrating activity- and goal-based workflows: a data model based design method. In 4th Workshop on Data- & Artifact-centric BPM (DAB’15). August 2015, 13th Conference on Business Process Management, Innsbruck, Austria. LNBIP (to appear)
+- António Rito Silva and Vicente García-Díaz. Integrating activity- and goal-based workflows: a data model based design method. In 4th Workshop on Data- & Artifact-centric BPM (DAB’15). August 2015, 13th Conference on Business Process Management, Innsbruck, Austria. LNBIP
 - Davide Passinhas, Michael Adams, Bernardo Oliveira Pinto, Ricardo Costa, António Rito Silva and Arthur H.M. ter Hofstede. Blended Workflow Engine. IN Proceedings of the Demonstration Track of the 10th International Conference on Business Process Management (BPM 2012). September 2012, Tallinn, Estonia. N. Lohmann, S. Moser (Eds): BPM Demos 2012, Vol. 940, pp. 23-28, 2012. CEUR Workshop Proceedings. urn:nbn:de:0074-940-9
 - António Rito Silva. A Blended Workflow Approach. In Business Process Design (BPD2011). August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part I, LNBIP 99, pp. 25-36, 2012. Springer.
 - Bernardo Pinto and António Rito Silva. An Architecture for a Blended Workflow Engine: Integrating an Activity-Based Perspective with a Goal-Based Perspective. In Second International Workshop on Traceability and Compliance of Semi-Structured Processes (TC4SP2011) . August 2011, Clermont-Ferrand, France. F. Daniel et al. (Eds.): BPM 2011 Workshops, Part II, LNBIP 100, pp. 382–393, 2012. Springer.
