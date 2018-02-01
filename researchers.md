@@ -10,13 +10,18 @@ permalink: /researchers/
 - António Rito Silva (Coordinator) (rito.silva@tecnico.ulisboa.pt)
 - David Martinho (PhD on Knowledge Capture @ Processpedia)
 - David Duarte (MSc on Annotation System for Software Architecture @ Social Edition)
-- Paulo Pires (MSc on Model Synthesis @ Processpedia)
 - Pedro Martins (MSc on the Synthesis of Taxonomies in the LdoD Archive @ Social Edition)
-- Nuno Pinto (MSc on Visualization @ Social Edition) 
-- Rodrigo Ribeiro (MSc on an Ontology for Software Engineering Repository @ Social Edition)
+- José Raposo (MSc on Visualization @ Social Edition) 
+- Miguel Cruz (MSc on Modularization @ Social Editon)
+- Gonçalo Marques (MSc on Crowdsourcing and Gamification @ Social Edition)
+- Duarte Oliveira (MSc on Social Media Aware Editions @ Social Edition)
+- Guilherme Ramos (MSc on Resource Management @ Blended Workflow)
+- Artur Oliveira (MSc on Monitorization @ Blended Workflow)
+- Luís Nunes (MSc Microservices Migration @ Software Architecture)
 
 # Past Reserachers
 
+- Nuno Pinto (MSc on Visualization @ Social Edition)
 - Vicente García-Díaz (Visiting from University of Oviedo @ Blended Workflow)
 - Mário Guimarães (PhD on Conflict Detection and Resolution @ Collaborative Development)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities @ Social Edition)
