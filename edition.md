@@ -53,11 +53,15 @@ A knowledge repository for the software engineering dicipline where external web
 - António Rito Silva
 - David Duarte (MSc on Annotation System for Software Architecture)
 - Pedro Martins (MSc on the Synthesis of Taxonomies in the LdoD Archive)
-- Nuno Pinto (MSc on Visualization for Digital Humanities) 
-- Rodrigo Ribeiro (MSc on an Ontology for Software Engineering Repository)
+- José Raposo (MSc on LdoD Visualization)
+- Miguel Cruz (MSc on LdoD Modularization)
+- Gonçalo Marques (MSc on LdoD Crowdsourcing and Gamification)
+- Duarte Oliveira (MSc on LdoD Social Media Aware Editions)
+
 
 # Past Researchers
 
+- Nuno Pinto (MSc on Visualization for Digital Humanities)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities)
 - Catarina Santana (MSc on a Platform for the Analysis and Synthesis of Software Architecture Descriptions)
 

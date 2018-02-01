@@ -50,6 +50,8 @@ Both, thesis and internships, address several existing open problems. The follow
 # Researchers
 
 - António Rito Silva
+- Guilherme Ramos (MSc on Resource Management)
+- Artur Oliveira (MSc on Monitorization)
 
 # Past Reserachers
 
