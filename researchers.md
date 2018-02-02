@@ -11,6 +11,7 @@ permalink: /researchers/
 - David Martinho (PhD on Knowledge Capture @ Processpedia)
 - David Duarte (MSc on Annotation System for Software Architecture @ Social Edition)
 - Pedro Martins (MSc on the LdoD Synthesis of Taxonomies @ Social Edition)
+- Frederico Madeira (MSc on Access Control Verification @ Blended Workflow)
 - José Raposo (MSc on LdoD Visualization @ Social Edition) 
 - Miguel Cruz (MSc on LdoD Modularization @ Social Editon)
 - Gonçalo Marques (MSc on LdoD Crowdsourcing and Gamification @ Social Edition)
