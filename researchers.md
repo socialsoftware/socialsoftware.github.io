@@ -28,8 +28,6 @@ permalink: /researchers/
 - Catarina Santana (MSc on Collaborative Analysis @ Social Edition)
 - Davide Passinhas (MSc on YAWL Integration @ Blended Workflow)
 - Sérgio Silva (MSc on Dynamic Product Chains @ Processpedia)
-- Ricardo Costa (Specification Construction @ Blended Workflow)
-- Luís Fernandes (Virtual Communities @ Processpedia)
 - Bernardo Pinto (MSc Thesis on a Blended Workflow Engine)
 - Marco Pinheiro (MSc on Wikis for Emergent Information Systems)
 - Paul Maia (MSc on Organisational Steering)

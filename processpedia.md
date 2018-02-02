@@ -37,7 +37,6 @@ Processpedia, enhances collaborative modelling among stakeholders without enforc
 
 # Past Researchers
 
-- Luís Fernandes (Virtual Communities)
 - Sérgio Silva (MSc on Dynamic Product Chains)
 
 # Opt-how

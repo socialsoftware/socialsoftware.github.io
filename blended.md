@@ -57,6 +57,5 @@ Both, thesis and internships, address several existing open problems. The follow
 # Past Reserachers
 
 - Vicente García-Díaz (visiting from University of Oviedo @ designer)
-- Ricardo Costa (Specification Construction @ Blended Workflow)
 - Bernardo Pinto (MSc Thesis on a Blended Workflow Engine)
 - David Passinhas (MSc Thesis on YAWL Integration)
