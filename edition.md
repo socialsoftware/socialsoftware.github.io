@@ -63,7 +63,6 @@ António Rito Silva and Manuel Portela, ‘TEI4LdoD: Textual Encoding and Social
 
 # Past Researchers
 
-- Nuno Pinto (MSc on Visualization for Digital Humanities)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities)
 - Catarina Santana (MSc on a Platform for the Analysis and Synthesis of Software Architecture Descriptions)
 

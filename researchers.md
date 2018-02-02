@@ -22,7 +22,6 @@ permalink: /researchers/
 
 # Past Reserachers
 
-- Nuno Pinto (MSc on Visualization @ Social Edition)
 - Vicente García-Díaz (Visiting from University of Oviedo @ Blended Workflow)
 - Mário Guimarães (PhD on Conflict Detection and Resolution @ Collaborative Development)
 - André Santos (MSc on Advanced Query and Navigation for Digital Humanities @ Social Edition)
