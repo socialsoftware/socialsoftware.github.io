@@ -33,7 +33,6 @@ Processpedia, enhances collaborative modelling among stakeholders without enforc
 
 - António Rito Silva
 - David Martinho (PhD on Knowledge Capture)
-- Paulo Pires (MSc on Model Synthesis)
 
 # Past Researchers
 
